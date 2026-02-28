@@ -523,7 +523,7 @@ export default function Hero({ businessName, tagline }) {
             Professional <span>${typeInfo.name}</span> Services in the UK
           </h1>
           <p>
-            ${tagline}. Delivering excellence to homes and businesses across the region. 
+            ${typeInfo.tagline}. Delivering excellence to homes and businesses across the region. 
             Quality workmanship guaranteed on every job.
           </p>
           <div className="hero-buttons">
@@ -547,7 +547,7 @@ export default function Services({ services, businessType }) {
       <div className="container">
         <div className="section-header">
           <h2>Our Services</h2>
-          <p>Comprehensive ${businessType} solutions tailored to your needs</p>
+          <p>Comprehensive ${typeInfo.name} solutions tailored to your needs</p>
         </div>
         <div className="services-grid">
           {services.map((service, index) => (
