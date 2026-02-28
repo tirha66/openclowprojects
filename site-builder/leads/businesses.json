@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Brum Heating Services",
+    "type": "heating",
+    "address": "42 Aston Lane, Birmingham B20 3BT",
+    "phone": "0121 555 0123",
+    "email": "info@brumheating.co.uk",
+    "city": "Birmingham",
+    "services": [
+      "Boiler Installation",
+      "Central Heating",
+      "Gas Safety Certificates",
+      "Emergency Repairs"
+    ]
+  },
+  {
+    "name": "A2Z Plumbing Solutions",
+    "type": "plumbing",
+    "address": "15 Sparkhill High Street, Birmingham B11 4BY",
+    "phone": "0121 555 0987",
+    "email": "contact@a2zplumbing.co.uk",
+    "city": "Birmingham",
+    "services": [
+      "General Plumbing",
+      "Bathroom Fitting",
+      "Leak Detection",
+      "Pipe Work"
+    ]
+  },
+  {
+    "name": "Midlands Electricians",
+    "type": "electrical",
+    "address": "88 Hagley Road, Birmingham B16 8LU",
+    "phone": "0121 555 0456",
+    "email": "hello@midlandselectricians.co.uk",
+    "city": "Birmingham",
+    "services": [
+      "Rewiring",
+      "Consumer Unit Upgrade",
+      "Fault Finding",
+      "PAT Testing"
+    ]
+  },
+  {
+    "name": "Clean Sweep Manchester",
+    "type": "cleaning",
+    "address": "7 Deansgate, Manchester M3 1AE",
+    "phone": "0161 555 0789",
+    "email": "book@cleansweepmanchester.co.uk",
+    "city": "Manchester",
+    "services": [
+      "Office Cleaning",
+      "End of Tenancy",
+      "Carpet Cleaning",
+      "Window Cleaning"
+    ]
+  },
+  {
+    "name": "Yorkshire Landscapes",
+    "type": "landscaping",
+    "address": "23 Headingley Lane, Leeds LS6 1DJ",
+    "phone": "0113 555 0321",
+    "email": "info@yorkshirelandscapes.co.uk",
+    "city": "Leeds",
+    "services": [
+      "Garden Design",
+      "Patio Installation",
+      "Fencing",
+      "Artificial Grass"
+    ]
+  }
+]
