@@ -1,0 +1,22 @@
+[
+  {"name": "Apex Plumbing Services", "type": "plumber", "website": "apexplumbingservices.co.uk", "email": "info@apexplumbingservices.co.uk", "city": "Manchester"},
+  {"name": "Premier Gas & Heating", "type": "heating", "website": "premiergasheating.co.uk", "email": "contact@premiergasheating.co.uk", "city": "Birmingham"},
+  {"name": "Elite Electrical Solutions", "type": "electrician", "website": "eliteelectricalsolutions.co.uk", "email": "info@eliteelectricalsolutions.co.uk", "city": "Leeds"},
+  {"name": "Spark Pros", "type": "electrician", "website": "sparkpros.co.uk", "email": "hello@sparkpros.co.uk", "city": "London"},
+  {"name": "Heatwave Services", "type": "hvac", "website": "heatwaveservices.co.uk", "email": "info@heatwaveservices.co.uk", "city": "Bristol"},
+  {"name": "Cool Air Experts", "type": "hvac", "website": "coolarexperts.co.uk", "email": "sales@coolarexperts.co.uk", "city": "Glasgow"},
+  {"name": "Green Leaf Landscaping", "type": "landscaper", "website": "greenleaflandscaping.co.uk", "email": "quotes@greenleaflandscaping.co.uk", "city": "Edinburgh"},
+  {"name": "Urban Clean Services", "type": "cleaner", "website": "urbancleanservices.co.uk", "email": "book@urbancleanservices.co.uk", "city": "Liverpool"},
+  {"name": "ProRoof Solutions", "type": "roofer", "website": "proroofsolutions.co.uk", "email": "info@proroofsolutions.co.uk", "city": "Cardiff"},
+  {"name": "AutoFix Mechanics", "type": "mechanic", "website": "autofixmechanics.co.uk", "email": "repairs@autofixmechanics.co.uk", "city": "Sheffield"},
+  {"name": "PestAway Control", "type": "pest", "website": "pestawaycontrol.co.uk", "email": "help@pestawaycontrol.co.uk", "city": "Nottingham"},
+  {"name": "BrightWindow Pros", "type": "window cleaner", "website": "brightwindowpros.co.uk", "email": "clean@brightwindowpros.co.uk", "city": "Southampton"},
+  {"name": "Elite Dental Care", "type": "dental", "website": "elitedentalcare.co.uk", "email": "info@elitedentalcare.co.uk", "city": "Manchester"},
+  {"name": "City Chiropractic", "type": "health", "website": "citychiropractic.co.uk", "email": "appointments@citychiropractic.co.uk", "city": "London"},
+  {"name": "Fresh Cuts Barbers", "type": "barbershop", "website": "freshcutsbarbers.co.uk", "email": "book@freshcutsbarbers.co.uk", "city": "Birmingham"},
+  {"name": "Glamour Hair Studio", "type": "salon", "website": "glamourhairstudio.co.uk", "email": "info@glamourhairstudio.co.uk", "city": "Leeds"},
+  {"name": "Zen Beauty Spa", "type": "spa", "website": "zenbeautyspa.co.uk", "email": "hello@zenbeautyspa.co.uk", "city": "Bristol"},
+  {"name": "Prime Fitness Gym", "type": "gym", "website": "primefitnessgym.co.uk", "email": "info@primefitnessgym.co.uk", "city": "Glasgow"},
+  {"name": "Active Sports Therapy", "type": "health", "website": "activesportstherapy.co.uk", "email": "book@activesportstherapy.co.uk", "city": "Liverpool"},
+  {"name": "PetCare Vets", "type": "vet", "website": "petcarevets.co.uk", "email": "info@petcarevets.co.uk", "city": "Cardiff"}
+]

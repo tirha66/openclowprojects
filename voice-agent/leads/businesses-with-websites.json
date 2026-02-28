@@ -1,0 +1,22 @@
+[
+  {"name": "British Gas", "type": "utilities", "website": "britishgas.co.uk", "email": "info@britishgas.co.uk", "city": "UK-wide"},
+  {"name": "Dyno Plumbing", "type": "plumbing", "website": "dyno.com", "email": "enquiries@dyno.com", "city": "UK-wide"},
+  {"name": "Central Heating", "type": "heating", "website": "centralheating.co.uk", "email": "info@centralheating.co.uk", "city": "UK-wide"},
+  {"name": "Swale Heating", "type": "heating", "website": "swaleheating.com", "email": "info@swaleheating.com", "city": "Kent"},
+  {"name": "E.ON Energy", "type": "utilities", "website": "eonenergy.com", "email": "contact@eonenergy.com", "city": "UK-wide"},
+  {"name": "British Safety Services", "type": "safety", "website": "bssuk.co.uk", "email": "info@bssuk.co.uk", "city": "UK-wide"},
+  {"name": "City Plumbing", "type": "plumbing", "website": "cityplumbing.co.uk", "email": "info@cityplumbing.co.uk", "city": "UK-wide"},
+  {"name": "Homebase", "type": "retail", "website": "homebase.co.uk", "email": "customer.service@homebase.co.uk", "city": "UK-wide"},
+  {"name": "B&Q", "type": "retail", "website": "diy.com", "email": "info@bandq.co.uk", "city": "UK-wide"},
+  {"name": "Currys", "type": "retail", "website": "currys.co.uk", "email": "info@currys.co.uk", "city": "UK-wide"},
+  {"name": "John Lewis", "type": "retail", "website": "johnlewis.com", "email": "johnlewis@johnlewis.co.uk", "city": "UK-wide"},
+  {"name": "Marks & Spencer", "type": "retail", "website": "marksandspencer.com", "email": "contact@marksandspencer.com", "city": "UK-wide"},
+  {"name": "Sainsbury's", "type": "retail", "website": "sainsburys.co.uk", "email": "contact@sainsburys.co.uk", "city": "UK-wide"},
+  {"name": "Tesco", "type": "retail", "website": "tesco.com", "email": "info@tesco.co.uk", "city": "UK-wide"},
+  {"name": "Wickes", "type": "retail", "website": "wickes.co.uk", "email": "info@wickes.co.uk", "city": "UK-wide"},
+  {"name": "Toolstation", "type": "retail", "website": "toolstation.com", "email": "sales@toolstation.com", "city": "UK-wide"},
+  {"name": "Plumbase", "type": "plumbing", "website": "plumbase.co.uk", "email": "info@plumbase.co.uk", "city": "UK-wide"},
+  {"name": "City Electrical", "type": "electrical", "website": "cityelectrical.co.uk", "email": "info@cityelectrical.co.uk", "city": "UK-wide"},
+  {"name": "Nadget", "type": "tech", "website": "nadget.com", "email": "hello@nadget.com", "city": "London"},
+  {"name": "GiffGaff", "type": "telecom", "website": "giffgaff.com", "email": "help@giffgaff.com", "city": "UK-wide"}
+]
